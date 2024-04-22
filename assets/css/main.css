@@ -3088,7 +3088,7 @@ html {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(37, 49, 73, 0.9);
+				background: rgba(37, 73, 37, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3299,23 +3299,23 @@ html {
 			}
 
 		.wrapper.alt {
-			background-color: #1c2638;
+			background-color: #1c3824;
 		}
 
 		.wrapper.style1 {
-			background-color: #4167a6;
+			background-color: #41a65f;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #335081;
+			background-color: #338143;
 		}
 
 		.wrapper.style2 {
-			background-color: #3f8eb3;
+			background-color: #3fb343;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #32708d;
+			background-color: #328d3b;
 		}
 
 		.wrapper.style3 {
